@@ -22,7 +22,6 @@ p47-p51：完全借用 Hi-iD 一篇文章的核心思想 [设计，在于制造�
 ![](http://wx4.sinaimg.cn/large/66d24d85ly1fnd7ux0rqyj20oz0sk0zh.jpg)
 ### 6. 那普通同事如何将产品思维（即用户思维）应用到日常生活与工作中？
 p52：「能兼顾你与对方的不同角度」，换位思考，便是更高级的用户思维的提现。
-p53：我个人的例子，产品思维让我赚到了亚朵的3张免房券
 
 #### 缩略图
 ![](http://wx3.sinaimg.cn/large/66d24d85ly1fnd72xrk43j21kw0qo4qp.jpg)
